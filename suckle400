@@ -1,5 +1,5 @@
 getgenv().ConfigSpecial = {
-    ["Weight"] = 1000,
+    ["Weight"] = 1400,
     ["Fruit"] = {"Honeysuckle"}
 }
 repeat
