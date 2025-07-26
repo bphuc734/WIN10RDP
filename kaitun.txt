@@ -178,9 +178,9 @@ getgenv().ConfigsKaitun = {
 				"Idk"
 			},
 			Pets = {
-				"Tanchozuru",
+				
 				"Kitsune",
-				"Kappa",
+				
 				"T-Rex",
 				"Brontosaurus",
 				"Disco Bee",
