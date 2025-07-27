@@ -64,6 +64,7 @@ getgenv().ConfigsKaitun = {
 			"Zen Egg",
 			"Pet Shard Tranquil",
 			"Pet Shard Corrupted",
+			"Raiju",
 		},
 	},
 
