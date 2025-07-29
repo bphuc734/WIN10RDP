@@ -130,6 +130,9 @@ getgenv().ConfigsKaitun = {
 		Place = {
 			"Zen Egg",
 			"Common Summer Egg",
+			"Bug Egg",
+			"Paradise Egg",
+			"Common Egg",
 		},
 		Buy = {
 			"Anti Bee Egg",
@@ -197,6 +200,12 @@ getgenv().ConfigsKaitun = {
 		},
 		LockPet_Weight = 5, -- if Weight >= 10 they will locked,
 		Instant_Sell = {
+			"Shiba Inu",
+			"Bunny",
+			"Dog",
+			"Golden Lab",
+			"Shiba Inu",
+			"Shiba Inu",
 			"Shiba Inu",
 		}
 	},
