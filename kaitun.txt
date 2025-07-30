@@ -204,8 +204,8 @@ getgenv().ConfigsKaitun = {
 			"Bunny",
 			"Dog",
 			"Golden Lab",
-			"Shiba Inu",
-			"Shiba Inu",
+			"Seagull",
+			"Maneki-neko",
 			"Shiba Inu",
 		}
 	},
@@ -229,7 +229,7 @@ getgenv().ConfigsKaitun = {
 				"Idk"
 			},
 			Pets = {
-				"Kodama",
+				"Corrupted Kodama",
 				"Corrupted Kitsune",
 				"Raiju",
 				"Tanchozuru",
