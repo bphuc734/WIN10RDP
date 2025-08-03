@@ -134,6 +134,7 @@ Collect_Cooldown = 60, -- cooldown to collect fruit
 
 	Eggs = {
 		Place = {
+			"Gourmet Egg",
 			"Zen Egg",
 			"Common Summer Egg",
 			"Bug Egg",
