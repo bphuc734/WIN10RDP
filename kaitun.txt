@@ -236,17 +236,18 @@ Collect_Cooldown = 60, -- cooldown to collect fruit
 				"Idk"
 			},
 			Pets = {
-				"Corrupted Kodama",
+				"French Fry Ferret",
 				"Corrupted Kitsune",
-				
-				
 				"Kitsune",
-				
+				"Spinosaurus",
+				"T-Rex",
 				"Disco Bee",
 				"Butterfly",
 				"Mimic Octopus",
+				"Queen Bee",
 				"Fennec Fox",
 				"Dragonfly",
+				"Raccoon",
 				"Red Fox",
 			},
 			Pet_Weight_Noti = true,
