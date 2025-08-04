@@ -33,7 +33,9 @@ Collect_Cooldown = 60, -- cooldown to collect fruit
 			["Bamboo"] = 1, ["Apple"] = 1, ["Coconut"] = 1,
 			["Pumpkin"] = 1, ["Watermelon"] = 1, ["Cactus"] = 1,
 			["Dragon Fruit"] = 1, ["Mango"] = 1, ["Grape"] = 1,
-			["Mushroom"] = 1, ["Pepper"] = 1, ["Cacao"] = 1
+			["Mushroom"] = 1, ["Pepper"] = 1, ["Cacao"] = 1,
+			["Beanstalk"] = 1,["Ember Lily"] = 1,["Sugar Apple"] = 1,
+			["Burning Bud"] = 1,["Giant Pinecone"] = 1,["Elder Strawberry"] = 1
 		}
 	},
 
