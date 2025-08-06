@@ -233,6 +233,7 @@ getgenv().ConfigsKaitun = {
 			"Seagull",
 			"Maneki-neko",
 			"Shiba Inu",
+			"Crab",
 		}
 	},
 
