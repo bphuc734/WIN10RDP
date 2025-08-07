@@ -43,7 +43,7 @@ LIMIT_PLANT_SEED = { ["Carrot"] = 5, ["Strawberry"] = 5, ["Blueberry"] = 5, ["Ro
     KEEP_PETS_AGE = { ["Starfish"] = 75 },
 
     EQUIP_PETS = { "Bald Eagle", ["Rooster"] = 2, ["Blood Kiwi"] = 2, ["Capybara"] = 1, ["Starfish"] = 1, ["Chicken"] = 2 },
-    USE_PETS_FOR_UPGRADE_SLOT = { "Starfish" },
+    USE_PETS_FOR_UPGRADE_SLOT = { "Capybara","Starfish" },
     REMOVE_PET_MAX_UPGRADE = { "Capybara", "Starfish" },  -- Unequip from garden
 
     BUY_GEAR_SHOP = { "Master Sprinkler", "Godly Sprinkler", "Advanced Sprinkler", "Basic Sprinkler", "Trading Ticket" },
@@ -54,7 +54,7 @@ LIMIT_PLANT_SEED = { ["Carrot"] = 5, ["Strawberry"] = 5, ["Blueberry"] = 5, ["Ro
     SEED_WEBHOOK_URL = "", 
     NOTIFY_PETS = { "French Fry Ferret", "Mochi Mouse", "Corrupted Kitsune", "Raiju", "Mizuchi", "Bald Eagle", "Koi", "Kitsune", "Fennec Fox", "Disco Bee", "Raccoon", "Queen Bee", "Night Owl", "Dragonfly", "Butterfly", "Mimic Octopus", "Red Fox", "Brontosaurus", "T-Rex", "Ankylosaurus", "Spinosaurus" },
     NOTIFY_PETS_WEIGHT = { ["Red Giant Ant"] = 5, ["Bear Bee"] = 5, ["Tanchozuru"] = 5 },
-    DISCORD_ID = "",
+    DISCORD_ID = "982977101986693181",
     WEBHOOK_NOTE = "mamoth",
     SHOW_WEBHOOK_USERNAME = true,
     SHOW_WEBHOOK_JOBID = true,
