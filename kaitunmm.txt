@@ -51,7 +51,7 @@ LIMIT_PLANT_SEED = { ["Carrot"] = 5, ["Strawberry"] = 5, ["Blueberry"] = 5, ["Ro
 
     PET_WEBHOOK_URL = "https://discord.com/api/webhooks/1352603021124829215/dGt-qE3Yo2aurhuoLhN_7zmxDGx43G7GNE-2OhayMBLYA0dPlhg9HU1GI_owoydlGTWL",
     SEED_WEBHOOK_URL = "", 
-    NOTIFY_PETS = { "French Fry Ferret", "Mochi Mouse", "Corrupted Kitsune", "Raiju", "Mizuchi", "Bald Eagle", "Koi", "Kitsune", "Fennec Fox", "Disco Bee", "Raccoon", "Queen Bee", "Night Owl", "Dragonfly", "Butterfly", "Mimic Octopus", "Red Fox", "Brontosaurus", "T-Rex", "Ankylosaurus", "Spinosaurus" },
+    NOTIFY_PETS = { "French Fry Ferret", "Mochi Mouse", "Corrupted Kitsune", "Raiju", "Mizuchi", "Bald Eagle", "Koi", "Kitsune", "Fennec Fox", "Disco Bee", "Raccoon", "Queen Bee", "Night Owl", "Dragonfly", "Butterfly", "Mimic Octopus", "Red Fox", "Brontosaurus", "T-Rex", "Ankylosaurus","Lobster Thermidor", "Spinosaurus" },
     NOTIFY_PETS_WEIGHT = { ["Red Giant Ant"] = 5, ["Bear Bee"] = 5, ["Tanchozuru"] = 5 },
     DISCORD_ID = "982977101986693181",
     WEBHOOK_NOTE = "mamoth",
