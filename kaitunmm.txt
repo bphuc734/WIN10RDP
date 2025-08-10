@@ -7,7 +7,6 @@
 script_key="vqhvgcqtCRYKcWDXMYzhotrNOibIGxFA";
 setfpscap(3)
 
-setfpscap(2)
 
 getgenv().gagConfig = {
     -- Event:
