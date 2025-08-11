@@ -270,7 +270,6 @@ getgenv().ConfigsKaitun = {
 			Pets = {
 				"Lobster Thermidor",	
 				"Gorilla Chef",
-				"Sunny-Side Chicken",
 				"Mochi Mouse",
 				"French Fry Ferret",
 				"Corrupted Kitsune",
