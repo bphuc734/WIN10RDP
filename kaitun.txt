@@ -246,7 +246,7 @@ getgenv().ConfigsKaitun = {
 			"Maneki-neko",
 			"Shiba Inu",
 			"Crab",
-			"Sunny-Side Chicken",
+		
 		}
 	},
 
