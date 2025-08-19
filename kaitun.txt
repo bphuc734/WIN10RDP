@@ -237,7 +237,6 @@ MaxMoney_Restocks = 500_000_000,
 			"Maneki-neko",
 			"Shiba Inu",
 			"Crab",
-		
 		}
 	},
 
