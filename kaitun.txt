@@ -279,6 +279,6 @@ MaxMoney_Restocks = 500_000_000,
 		}
 	},
 }
-License = "H5OjLSSiXj8TLWm8hF9HAUkP6JkUjIoL"
+License = "1TheNLoz61Tva3TXHQuQP8Ev297K1pl8"
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Real-Aya/Loader/main/Init.lua'))()
